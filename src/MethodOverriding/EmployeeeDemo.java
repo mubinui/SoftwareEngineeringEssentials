@@ -15,7 +15,7 @@ public class EmployeeeDemo {
 
         Employeee e3 = new EmployeeeOverriding();
         int a = e1.getSalary();
-        // the method will run from the
+        // the method will run from the parent class
 
         //EmployeeeOverriding e4 = new Employeee(); not possible
 
