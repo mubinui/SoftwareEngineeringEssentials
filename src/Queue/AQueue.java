@@ -1,7 +1,7 @@
 package Queue;
 
 public class AQueue implements Queue{
-    int front =0;
+    int front = 0;
     int rear = -2;
     int s = 0;
     Object a[]= new Object[4];
